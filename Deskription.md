@@ -7,7 +7,7 @@
     * ### [git и perforce](#git-и-perforce)
     * ### [git и Mercurial](#git-и-mercurial)
     * ### [git и TFVC](#git-и-team-foundation-version-control-tfvc)
-* ### [Установка]()
+* ### [Установка](Install.md)
 * ### [Базовые комнады]()
 * ### [Что такое github?]()
 * ### [Как им пользоваться?]()
