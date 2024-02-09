@@ -1,18 +1,18 @@
 # Справка по git и github
 
 ## Путеводитель
-* ### [Что такое git?](#Что-такое-git)
-* ### [git единственный вариант?](#git-единственный-вариант)
-    * ### [git и svn](#git-и-svn)
-    * ### [git и perforce](#git-и-perforce)
-    * ### [git и Mercurial](#git-и-mercurial)
-    * ### [git и TFVC](#git-и-team-foundation-version-control-tfvc)
-* ### [Установка](Install.md)
-* ### [Базовые комнады]()
-* ### [Что такое github?]()
-* ### [Как им пользоваться?]()
-* ### [Заливка нашего проекта на github]()
-* ### [Пример простого проекта]()
+- ### [Что такое git?](#что-такое-git)
+- ### [git единственный вариант?](#git-единственный-вариант)
+    - ### [git и svn](#git-и-svn)
+    - ### [git и perforce](#git-и-perforce)
+    - ### [git и Mercurial](#git-и-mercurial)
+    - ### [git и TFVC](#git-и-team-foundation-version-control-tfvc)
+- ### [Установка](Install.md)
+- ### [Базовые комнады]()
+- ### [Что такое github?]()
+    - ### [Как им пользоваться?]()
+- ### [Заливка нашего проекта на github]()
+- ### [Пример простого проекта]()
 
 
 
