@@ -3,10 +3,17 @@
 ## Путеводитель
 * ### [Что такое git?](#Что-такое-git?)
 * ### [git единственный вариант?](#git-единственный-вариант?)
-    * #### [git и svn](#git-и-svn)
-    * #### [git и perforce](#git-и-perforce)
-    * #### [git и Mercurial](#git-и-Mercurial)
-    * #### [git и TFVC](#git-и-Team-Foundation-Version-Control-(TFVC))
+    * ### [git и svn](#git-и-svn)
+    * ### [git и perforce](#git-и-perforce)
+    * ### [git и Mercurial](#git-и-mercurial)
+    * ### [git и TFVC](#git-и-team-foundation-version-control-tfvc)
+* ### [Установка]()
+* ### [Базовые комнады]()
+* ### [Что такое github?]()
+* ### [Как им пользоваться?]()
+* ### [Заливка нашего проекта на github]()
+* ### [Пример простого проекта]()
+
 
 
 ### Что такое git? 
