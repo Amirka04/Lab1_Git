@@ -7,13 +7,6 @@
     - ### [git и perforce](#git-и-perforce)
     - ### [git и Mercurial](#git-и-mercurial)
     - ### [git и TFVC](#git-и-team-foundation-version-control-tfvc)
-- ### [Установка](Install.md)
-- ### [Базовые комнады](BaseCommand.md)
-- ### [Что такое github?]()
-- ### [Заливка проекта на github]()
-- ### [Пример простого проекта]()
-- ### [Возможные ошибки]()
-
 
 ---
 
